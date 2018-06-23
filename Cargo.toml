@@ -31,3 +31,6 @@ color = ["ansi_term"]
 debug = []
 
 unstable = []
+
+[patch.crates-io]
+clog = { git = 'https://github.com/OddBloke/clog-lib' }
